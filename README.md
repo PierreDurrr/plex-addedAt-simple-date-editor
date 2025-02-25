@@ -11,4 +11,4 @@ Defaults are +48 hours in the future, and 30 days ago. Can be changed as what yo
 
 Processed items will get the label removed automatically.
 
-Script can be triggered manually on set up on a cron. 
+Script can be triggered manually or set up on a cron. 
